@@ -1,4 +1,9 @@
-![image](https://github.com/kousikbarik/Adversarial-attack-defense-analysis/assets/91803246/f799f45d-bc88-428f-be6e-119d4dec66db)Comparative outcome using Limited-memory BFGS attack
+Comparative outcome using Limited-memory BFGS attack
+
+![image](https://github.com/kousikbarik/Adversarial-attack-defense-analysis/assets/91803246/1baa4dc4-9d12-42c0-a73d-76b1846a555c)
+
+
+Comparative outcome using Limited-memory BFGS attack
 
 ![image](https://github.com/kousikbarik/Adversarial-attack-defense-analysis/assets/91803246/27da60ac-8605-491c-bd62-62197e0270d7)
 
@@ -40,6 +45,7 @@ Adversarial Examples Percentage vs. Attack Success Rate
 ![image](https://github.com/kousikbarik/Adversarial-attack-defense-analysis/assets/91803246/adc8e28f-887f-4a07-9e67-7946ad035b8d)
 
 # Layer 2
+
 Confusion matrix
 
 ![image](https://github.com/kousikbarik/Adversarial-attack-defense-analysis/assets/91803246/4238316e-9311-4d9c-9727-c7e9f3e01add)
