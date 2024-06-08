@@ -52,7 +52,14 @@ The CSE-CIC-IDS2018 is a publicly available dataset for IDS.(https://www.unb.ca/
 
 **#Code**
 
-1.	Limited-memory BFGS_2017.ipynb,2.	Deepfool_2017,3.	Limited-memory BFGS_2018.ipynb and Deepfool_2018.ipynb
+Limited-memory BFGS_2017.ipynb
+
+Deepfool_2017.ipynb
+
+Limited-memory BFGS_2018.ipynb 
+
+Deepfool_2018.ipynb
+
 
 **# Algorithims**
 
