@@ -40,8 +40,10 @@ Fig. 1. An outline of the proposed model
 
 **#Dataset**
 The CIC-IDS-2017 is a popular publicly available dataset for IDS. (https://www.unb.ca/cic/datasets/ids-2017.html)
+
 The CSE-CIC-IDS2018 is a publicly available dataset for IDS.(https://www.unb.ca/cic/datasets/ids-2018.html)
 
 **#Code**
+
 1.	Limited-memory BFGS_2017.ipynb,2.	Deepfool_2017,3.	Limited-memory BFGS_2018.ipynb and Deepfool_2018.ipynb
 
