@@ -14,10 +14,14 @@ Three papers have been published in this project:
 Barik, K., Misra, S., Konar, K., Fernandez-Sanz, L., & Koyuncu, M. (2022). Cybersecurity deep: Approaches, attacks dataset, and comparative study. Applied Artificial Intelligence, 36(1), https://doi.org/10.1080/08839514.2022.2055399.
 
 Barik, K., Misra, S. & Fernandez-Sanz, L. Adversarial attack detection framework based on optimized weighted conditional stepwise adversarial network. Int. J. Inf. Secur. (2024). https://doi.org/10.1007/s10207-024-00844-w
+
 https://github.com/kousikbarik/WSCAN-PSO
 
 Barik, K., & Misra, S. (2024). IDS-Anta: An open-source code with a defence mechanism to detect adversarial attacks for intrusion detection system. Software Impacts, 100664.
 https://doi.org/10.1016/j.simpa.2024.100664
+
+https://github.com/kousikbarik/lab-ids-anta/tree/main
+
 
 **#Abstract**
 
