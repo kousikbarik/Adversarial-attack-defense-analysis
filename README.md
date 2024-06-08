@@ -34,6 +34,7 @@ Advancements in artificial intelligence in the cybersecurity domain introduce si
 
 # An outline of the proposed model
 ![1 jpeg](https://github.com/kousikbarik/Adversarial-attack-defense-analysis/assets/91803246/24fa75b4-efd3-439c-8c9d-9a4c82ec77b6)
+
 Fig. 1. An outline of the proposed model
 
 **#Dataset**
