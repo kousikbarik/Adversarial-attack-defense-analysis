@@ -20,6 +20,7 @@ Barik, K., & Misra, S. (2024). IDS-Anta: An open-source code with a defence mech
 https://doi.org/10.1016/j.simpa.2024.100664
 
 **#Abstract**
+
 Advancements in artificial intelligence in the cybersecurity domain introduce significant security challenges. A critical concern is the exposure of deep learning techniques to adversarial attacks. Adversary users intentionally attempt to mislead the techniques by infiltrating adversarial samples during the training or testing phase to mislead the prediction of security devices. The study presents extensive experimentation of defense methods using Python-based open-source code with two benchmark datasets, and the outcomes are demonstrated using evaluation metrics. This code library can be easily utilized and reproduced for cybersecurity research on countering adversarial attacks. Exploring strategies for defending against adversarial attacks is significant in enhancing the resilience of deep learning techniques.
 
 **#Research Questions**
